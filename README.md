@@ -18,8 +18,13 @@ Content
 
 Structure
 • /data/ : contains the data used. 
+
 • /notebooks/ : contains the different notebooks. 
+
 • /html/: contains a html extract of each notebook.
+
 • /package_folder/ : the functions, code, i used during the EDA . 
+
 • /requirements.txt/: The different packages you used for the practical work with their corresponding versions.
+
 • README.md
