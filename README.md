@@ -4,7 +4,7 @@ by Vivien Bogne
 
 ### Data Source :
 
-The movies dataset -> https://www.kaggle.com/rounakbanik/the-movies-dataset
+The movies dataset -> https://grouplens.org/datasets/movielens/
 
 ### Content
 
