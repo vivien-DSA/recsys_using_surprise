@@ -16,7 +16,8 @@ Content
 
 3. Benchmark the User based and item based collaborative filtering models using the cosine and pearson correlation similarity metrics. In this step you need to use the data loaded in the 1st step.
 
-Structure
+Structure:
+
 • /data/ : contains the data used. 
 
 • /notebooks/ : contains the different notebooks. 
